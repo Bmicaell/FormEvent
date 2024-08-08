@@ -1,6 +1,3 @@
-Claro! Aqui está uma descrição para um projeto de formulário criado com HTML e CSS que você pode usar no GitHub:
-
----
 
 # Projeto de Formulário HTML e CSS
 
