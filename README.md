@@ -30,7 +30,7 @@ Para visualizar o formulário em ação, você pode clonar este repositório e a
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd repository-name
+    cd FormEvent
     ```
 
 3. Abra o arquivo `index.html` em seu navegador para visualizar o formulário.
